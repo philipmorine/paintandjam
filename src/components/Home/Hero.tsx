@@ -6,7 +6,7 @@ import '../../styles/retro-effects.css';
 
 export function Hero() {
   const [text, setText] = useState('');
-  const fullText = '> DIGITAL ARTIST & DEVELOPER_';
+  const fullText = '> Howdy, My name is Phil Morine and was looking for a way to find new music. I landed on painting to find some new tunes. All for fun. ';
 
   useEffect(() => {
     let index = 0;
